@@ -10,6 +10,7 @@ namespace project_test
             Console.WriteLine("Students");
             Console.WriteLine("Adam");
             Console.WriteLine("HelloWorld!");
+            Console.ReadLine();
         }
     }
 }
